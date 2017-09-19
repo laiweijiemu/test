@@ -1,7 +1,3 @@
 <?php 
-echo 123;
+echo 'success';
 
-
-echo 567;
-
-echo 789;
